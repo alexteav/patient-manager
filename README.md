@@ -1,7 +1,6 @@
 # The-ChocAn-Simulator
 >CS 314 Group Project
-
->A text-based patient management system (called the ChocAn Simulator) for a hospital/clinic written in Python.
+A text-based patient management system (called the ChocAn Simulator) for a hospital/clinic written in Python.
 
 ## Group Members
 - Alex Teav
